@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/DmytroPrymachenko/goit-react-hw-01-components2/static/css/main.2d709f4f.css",
+    "main.js": "/DmytroPrymachenko/goit-react-hw-01-components2/static/js/main.e383b377.js",
+    "index.html": "/DmytroPrymachenko/goit-react-hw-01-components2/index.html",
+    "main.2d709f4f.css.map": "/DmytroPrymachenko/goit-react-hw-01-components2/static/css/main.2d709f4f.css.map",
+    "main.e383b377.js.map": "/DmytroPrymachenko/goit-react-hw-01-components2/static/js/main.e383b377.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2d709f4f.css",
+    "static/js/main.e383b377.js"
+  ]
+}
